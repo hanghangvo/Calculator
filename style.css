@@ -1,0 +1,43 @@
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+
+
+.row {
+    padding-bottom: 10px;
+}
+
+button {
+    color: brown;
+    font-size: 150%;
+    width: 5rem;
+   margin-right: 3px;
+}
+
+button:hover {
+    background-color: white;
+    color: red;
+    border-radius: 5px;
+    border-color: grey;
+}
+
+.show {
+    width: 342px;
+    height: 40px;
+    background-color: lightcoral;
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+}
+
+
+
