@@ -9,6 +9,4 @@ It allows basic calculation with +,-,*,/ and two numbers.
 
 open `index.html`  in your favorite Browser
 
-<video width="320" height="240" controls>
-  <source src="video/record2.mp4" type="video/mp4">
-</video>
+![Video](video/record.mp4)
