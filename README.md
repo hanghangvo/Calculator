@@ -9,4 +9,8 @@ It allows basic calculation with +,-,*,/ and two numbers.
 
 open `index.html`  in your favorite Browser
 
-![Video](video/record.mp4)
+[![Watch the video](https://raw.githubusercontent.com/hanghangvo/calculator/main/calculator.jpg)]
+(https://raw.githubusercontent.com/hanghangvo/calculator/main/record.mp4)
+
+
+
